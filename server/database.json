@@ -1,0 +1,65 @@
+{
+  "server": {
+    "iface_lan": "enp0s8",
+    "iface_wan": "enp0s3"
+  },
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@admin.com",
+      "password": "admininastror"
+    },
+    {
+      "name": "fulano",
+      "email": "fulano@unifor.br",
+      "password": "fulano senha"
+    },
+    {
+      "name": "aaa",
+      "email": "aaa",
+      "password": "aaa"
+    },
+    {
+      "name": "atapo atapo ata",
+      "email": "aaa",
+      "password": "aaa"
+    },
+    {
+      "name": "atapo atapo ata",
+      "email": "aaa",
+      "password": "aaa"
+    },
+    {
+      "name": "atapo atapo ata",
+      "email": "aaa",
+      "password": "aaa"
+    },
+    {
+      "name": "atapo atapo ata",
+      "email": "aaa",
+      "password": "aaa"
+    },
+    {
+      "name": "atapo atapo ata",
+      "email": "aaa",
+      "password": "aaa"
+    },
+    {
+      "name": "a gfgsdf  gr tgh sg hdf hnfj",
+      "email": "dawd",
+      "password": "dsa"
+    },
+    {
+      "name": "jfghg hugh urhdguh hgurdg dfgh urgh",
+      "email": "email",
+      "password": "senha"
+    }
+  ],
+  "rules": [
+    {
+      "id": "7ba2dca7-aa34-4bc5-b876-6a407e68b809",
+      "ip": "aaa",
+      "action": "ACCEPT"
+    }
+  ]
+}
